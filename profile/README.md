@@ -1,9 +1,8 @@
 <h1><p align="center">OPENCODE👋</p></h1>
 <h3><p align="center">Open Source Community of NIT Rourkela</p></h3>
 
-
 <div align="center">
-
+<img src="https://github.com/opencodenitr/.github/blob/main/profile/logo.png"/>
 </div>
 
 ### 🌐 Who are we?
@@ -32,7 +31,8 @@ Elixir : An integrated public medical repository system
 HackNITR is one of a kind hackathon that endeavors to bring and integrate talent, innovation, and creativity under one roof to build solutions for real-world problems using the latest technologies and would be one of the largest hackathons in the region. It aims to provide student developers from across the country, a platform to transform their ideas into prototypes and solve the enigmas.
 
 Register now at [hacknitr.tech](https://hacknitr.tech/)
-  
+
+---
 
 <div align="center" >
  <a href="https://github.com/opencodenitr"><img src="https://img.icons8.com/dotty/1x/github.png"/></a>
